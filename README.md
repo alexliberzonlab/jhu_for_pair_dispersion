@@ -3,5 +3,5 @@ Analysis and animation of the puff release from the JHU Database based on pyJHTD
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6rRt6q-65Iw
 " target="_blank"><img src="Animated GIF-downsized_large.gif" 
-alt="Puff release" width="240" height="180" border="10" /></a>
+alt="Puff release" width="480" height="480" border="10" /></a>
 
